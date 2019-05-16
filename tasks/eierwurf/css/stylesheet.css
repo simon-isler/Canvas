@@ -1,0 +1,16 @@
+html, body {
+    background-image: url("../img/gras.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+#versuche {
+    position: absolute;
+    left: 30px;
+    top: 40px;
+}
+
