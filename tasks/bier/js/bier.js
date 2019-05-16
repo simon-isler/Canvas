@@ -4,7 +4,7 @@ var ctx = canvas.getContext("2d");
 
 // image
 var img = new Image();
-img.src = './Bier//img/bier.png';
+img.src = './img/bier.png';
 
 // globals
 var enabled = true;
