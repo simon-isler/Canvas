@@ -146,7 +146,7 @@ function aim() {
     ctx.beginPath();
     ctx.lineWidth = 5;
     ctx.strokeStyle = "#000000";
-    ctx.moveTo(mouseX*1.25, mouseY*1.25);
+    ctx.moveTo(mouseX, mouseY);
     ctx.lineTo(307, 400);
 
     // deactivate lines if outside a certain area
